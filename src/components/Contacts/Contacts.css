@@ -1,0 +1,14 @@
+.contacts {
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+.message__inp {
+    resize: none;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.email__inp {
+    width: 50%;
+}
